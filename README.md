@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Hi There](#intro)
    *  [Academic Degrees](#academic-degrees) 
-2. [Skillset](#skillset)
+2. [Skill Set](#skillset)
    * [Programming Languages](#programming-languages)
    * [Frontend Stack](#frontend-stack)
    * [Backend Stack](#backend-stack)
@@ -32,7 +32,7 @@ In a world where technology races ahead at breakneck speed, I stand at the cross
 - Master of Engineering in Artificial Intelligence (2024–2026) — Friedrich-Alexander-Universität Erlangen-Nürnberg
 - Bachelor of Engineering in Software Engineering (2017–2021) — Qom University of Technology
 
-##  <a name="skillset">Skillset</a>
+##  <a name="skill-set">Skillset</a>
 ### <a name="programming-languages">Programming Languages</a>
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
