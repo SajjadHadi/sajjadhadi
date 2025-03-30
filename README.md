@@ -69,8 +69,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 #### <a href="https://github.com/SajjadHadi/Hesabemoon">Hesabemoon</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Vuex](https://img.shields.io/badge/Vuex-00C58E?style=for-the-badge&logo=vuex%20saga&logoColor=999999)
@@ -81,8 +83,8 @@
 ![NgRX](https://img.shields.io/badge/NgRX-512BD4?style=for-the-badge&logo=ngrx&logoColor=white)
 
 #### <a href="https://github.com/SajjadHadi/Harmoniq" id="harmoniq">Harmoniq</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-yellow?style=for-the-badge&logo=piniadotjs%20saga&logoColor=999999)
 
 ### <a name="backend-projects">Backend Projects</a>
