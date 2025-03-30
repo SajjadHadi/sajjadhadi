@@ -80,6 +80,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NgRX](https://img.shields.io/badge/NgRX-512BD4?style=for-the-badge&logo=ngrx&logoColor=white)
 
+#### <a href="https://github.com/SajjadHadi/Harmoniq" id="harmoniq">Harmoniq</a>
+![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxt&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-yellow?style=for-the-badge&logo=piniadotjs%20saga&logoColor=999999)
 
 ### <a name="backend-projects">Backend Projects</a>
 
