@@ -2,6 +2,7 @@
 
 ## Table of Contents
 1. [Hi There](#intro)
+   *  [Academic Degrees](#academic-degrees) 
 2. [Skillset](#skillset)
    * [Programming Languages](#programming-languages)
    * [Frontend Stack](#frontend-stack)
@@ -22,6 +23,14 @@
 
 
 ## <a name="intro">Hi there 👋</a>
+In a world where technology races ahead at breakneck speed, I stand at the crossroads of code and creativity, wielding a keyboard as my compass and curiosity as my guide. I'm Sajjad Hadi, a full-stack developer who doesn’t just build software—I sculpt experiences, unravel puzzles, and sometimes, debug the fabric of reality itself. My toolkit spans the spectrum: spinning up vibrant frontends with React and Angular, forging resilient backends with Rust and Actix, and plunging into the depths of AI with TensorFlow and PyTorch. But it’s more than just tech—it’s about weaving stories and tackling challenges that matter. From guiding travelers to their next getaway with Play Viaggi to arming doctors with AI-powered disease detection, I’m on a quest to leave a mark, one commit at a time. So, strap in for this wild ride across the digital frontier, where every line of code is a brushstroke on the canvas of innovation.
+
+In a world where technology races ahead at breakneck speed, I stand at the crossroads of code and creativity, wielding a keyboard as my compass and curiosity as my guide. I'm Sajjad Hadi, a full-stack developer who doesn’t just build software—I sculpt experiences, unravel puzzles, and sometimes, debug the fabric of reality itself. My toolkit spans the spectrum: spinning up vibrant frontends with React and Angular, forging resilient backends with Rust and Actix, and plunging into the depths of AI with TensorFlow and PyTorch. But it’s more than just tech—it’s about weaving stories and tackling challenges that matter. From guiding travelers to their next getaway with Play Viaggi to arming doctors with AI-powered disease detection, I’m on a quest to leave a mark, one commit at a time. So, strap in for this wild ride across the digital frontier, where every line of code is a brushstroke on the canvas of innovation.
+
+
+### <a name="academic-degrees">Academic Degrees</a>
+- Master of Engineering in Artificial Intelligence (2024–2026) — Friedrich-Alexander-Universität Erlangen-Nürnberg
+- Bachelor of Engineering in Software Engineering (2017–2021) — Qom University of Technology
 
 ##  <a name="skillset">Skillset</a>
 ### <a name="programming-languages">Programming Languages</a>
@@ -94,8 +103,8 @@
 ![Vuex](https://img.shields.io/badge/Vuex-00C58E?style=for-the-badge&logo=vuex%20saga&logoColor=999999)
 
 #### <a href="https://github.com/SajjadHadi/reena" id="reena">Reena</a>
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![NgRX](https://img.shields.io/badge/NgRX-512BD4?style=for-the-badge&logo=ngrx&logoColor=white)
 
 #### <a href="https://github.com/SajjadHadi/Harmoniq" id="harmoniq">Harmoniq</a>
@@ -113,8 +122,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 #### <a href="https://github.com/SajjadHadi/Carly-Nest.js" name="carly-nestjs">Carly Nest.js</a>
-![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
