@@ -13,10 +13,10 @@
    * [Backend Projects](#backendProjects)
 
 
-## Hi there 👋<a name="intro"></a>
+## <a name="intro">Hi there 👋</a>
 
-## Skillset <a name="skillset"></a>
-### Programming Languages <a name="programmingLanguages"></a>
+##  <a name="skillset">Skillset</a>
+### <a name="programmingLanguages">Programming Languages</a>
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -25,7 +25,7 @@
 ![Rust](https://img.shields.io/badge/Rust-8F0000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frontend Stack <a name="frontendStack"></a>
+### <a name="frontendStack">Frontend Stack</a>
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxt&logoColor=white)
 
@@ -34,7 +34,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### Backend Stack <a name="backendStack"></a>
+### <a name="backendStack">Backend Stack</a>
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -44,7 +44,7 @@
 
 ![Actix](https://img.shields.io/badge/Actix-7036ab?style=for-the-badge&logo=actix&logoColor=white)
 
-### AI Stack <a name="AIStack"></a>
+### <a name="AIStack">AI Stack</a>
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -56,17 +56,17 @@
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### DevOps Stack <a name="devopsStack"></a>
+### <a name="devopsStack">DevOps Stack</a>
 ---
 
-## Projects <a name="projects"></a>
-### Frontend Projects <a name="frontendProjects"></a>
+## <a name="projects">Projects</a>
+### <a name="frontendProjects">Frontend Projects</a>
 
 #### <a href="https://github.com/SajjadHadi/reena" name="reena">Reena</a>
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Backend Projects <a name="backendProjects"></a>
+### <a name="backendProjects">Backend Projects</a>
 
 #### <a href="https://github.com/SajjadHadi/Spenser" name="reena">Spenser</a>
 ![Rust](https://img.shields.io/badge/Rust-8F0000?style=for-the-badge&logo=rust&logoColor=white)
