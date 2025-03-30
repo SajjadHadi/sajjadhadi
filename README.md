@@ -189,7 +189,7 @@ In a world where technology races ahead at breakneck speed, I stand at the cross
 - [YOLOv11-Tumor-Detection](https://huggingface.co/sajjadhadi/YOLOv11-Tumor-Detection)
 
 ---
-## <a name="contact-info">Contacts</a>
+## <a name="contact-info">Contact Info</a>
 <a href="mailto:sajjadhadi77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sajjad-hadi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 ---
