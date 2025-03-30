@@ -85,6 +85,7 @@ In a world where technology races ahead at breakneck speed, I stand at the cross
 ### <a id="devops-stack">DevOps Stack</a>
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## <a name="projects">Projects</a>
