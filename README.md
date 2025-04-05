@@ -9,6 +9,7 @@
    * [Backend Stack](#backend-stack)
    * [AI Stack](#ai-stack)
    * [Database Stack](#database-stack)
+     * [ORMs/ODMs](#ormsodms)   
    * [DevOps Stack](#devops-stack)
 3. [Projects](#projects)
    * [Frontend Projects](#frontend-projects)
@@ -36,7 +37,6 @@ In a world where technology races ahead at breakneck speed, I stand at the cross
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-8F0000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -80,6 +80,11 @@ In a world where technology races ahead at breakneck speed, I stand at the cross
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+#### <a id="ormsodms">ORMs/ODMs</a>
+![Django ORM](https://img.shields.io/badge/django_orm-092E20?style=for-the-badge&logo=djangoorm&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![SeaORM](https://img.shields.io/badge/SeaORM-007ACC?style=for-the-badge&logo=seaorm&logoColor=white)
+
 ### <a id="devops-stack">DevOps Stack</a>
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -101,15 +106,16 @@ In a world where technology races ahead at breakneck speed, I stand at the cross
 ![Nuxt.js](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Vuex](https://img.shields.io/badge/Vuex-00C58E?style=for-the-badge&logo=vuex%20saga&logoColor=999999)
 
+#### <a href="https://github.com/SajjadHadi/Harmoniq" id="harmoniq">Harmoniq</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Pinia](https://img.shields.io/badge/Pinia-yellow?style=for-the-badge&logo=piniadotjs%20saga&logoColor=999999)
+
 #### <a href="https://github.com/SajjadHadi/reena" id="reena">Reena</a>
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![NgRX](https://img.shields.io/badge/NgRX-512BD4?style=for-the-badge&logo=ngrx&logoColor=white)
 
-#### <a href="https://github.com/SajjadHadi/Harmoniq" id="harmoniq">Harmoniq</a>
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Pinia](https://img.shields.io/badge/Pinia-yellow?style=for-the-badge&logo=piniadotjs%20saga&logoColor=999999)
 
 ### <a name="backend-projects">Backend Projects</a>
 
@@ -125,11 +131,30 @@ In a world where technology races ahead at breakneck speed, I stand at the cross
 ![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 #### <a href="https://github.com/SajjadHadi/Spenser" name="spenser">Spenser</a>
 ![Rust](https://img.shields.io/badge/Rust-8F0000?style=for-the-badge&logo=rust&logoColor=white)
 ![Actix](https://img.shields.io/badge/Actix-7036ab?style=for-the-badge&logo=actix&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+#### <a name="écran">Écran (Coming soon, late April)</a>
+<small>To enhance my expertise with Express, especially the transition to Express 5, I have decided to undertake this project using the following tech stack. The project is scheduled to go public in late April.</small><br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-B71C1C?style=for-the-badge&logo=mongoose&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+#### <a name="angie">Angie (Coming soon, late May)</a>
+<small>I have decided to undertake this project to refresh and showcase my skills in Java, Spring, Spring Boot, JPA, and PostgreSQL. The project is scheduled to go public in late May.</small><br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-F6C915?style=for-the-badge&logo=jpa&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### <a name="nlp-projects">NLP Projects</a>
