@@ -206,7 +206,7 @@ In a world where technology races ahead at breakneck speed, I stand at the cross
 - [Disease-Diagnosis-Mistral-7B-v0.3](https://huggingface.co/sajjadhadi/Disease-Diagnosis-Mistral-7B-v0.3)
 - [Disease-Diagnosis-DeepSeek-R1-Distill-Llama-8B](https://huggingface.co/sajjadhadi/Disease-Diagnosis-DeepSeek-R1-Distill-Llama-8B)
 - [Mental-Disorder-Detection-Qwen2.5-0.5B-v1](https://huggingface.co/sajjadhadi/Mental-Disorder-Detection-Qwen2.5-0.5B-v1)
-- [Mental-Disorder-Detection-DeepSeek-R1-Distill-Qwen-1.5B](https://huggingface.co/sajjadhadi/Mental-Disorder-Detection-DeepSeek-R1-Distill-Qwen-1.5B)
+- [Mental-Disorder-Detection-DeepSeek-R1-Distill-Qwen-1.5B-v1](https://huggingface.co/sajjadhadi/Mental-Disorder-Detection-DeepSeek-R1-Distill-Qwen-1.5B)
 
 ### <a name="computer-vision-models">Computer Vision Models</a>
 - [YOLOv11-Tumor-Detection](https://huggingface.co/sajjadhadi/YOLOv11-Tumor-Detection)
