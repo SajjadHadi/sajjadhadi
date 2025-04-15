@@ -19,8 +19,9 @@
 4. [Fine-Tuned Models](#fine-tuned-models)
    * [NLP Models](#nlp-models)
    * [Computer Vision Models](#computer-vision-models)
-5. [Contact Info](#contact-info)
-6. [Other Links](#other-links)
+5. [Mentored Projects](#mentored-projects) 
+6. [Contact Info](#contact-info)
+7. [Other Links](#other-links)
 
 
 ## <a name="intro">Hi there 👋</a>
@@ -164,8 +165,12 @@ In a world where technology races ahead at breakneck speed, I stand at the cross
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### Mental Disorder Detection LLM
+<a href="#fine-tuned-models">Model</a> <small>(check out the Fine-Tuned models section)</small>
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
 #### <a href="https://www.kaggle.com/code/sajjadhadi/tweet-sentiment-analysis-w-deep-learning">Tweet Sentiment Analysis</a>
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -210,6 +215,18 @@ In a world where technology races ahead at breakneck speed, I stand at the cross
 
 ### <a name="computer-vision-models">Computer Vision Models</a>
 - [YOLOv11-Tumor-Detection](https://huggingface.co/sajjadhadi/YOLOv11-Tumor-Detection)
+
+---
+
+## <a name="mentored-projects">Mentored Projects</a>
+### <a href="https://github.com/Mahdii-Kariimiian/Car-Sales-Platform--Carly-">Carly</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### <a href="https://github.com/farshad5631/FoodLand">Foodland</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 ## <a name="contact-info">Contact Info</a>
